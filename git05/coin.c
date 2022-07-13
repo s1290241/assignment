@@ -28,11 +28,11 @@ int main()
   printf("Heads: %d, Tails: %d\n",h,t);
   if(h>t)
   {
-    printf("%s won!",str);
+    printf("you won!\n");
   }
   else
   {
-    printf("%s lost!",str);
+    printf("you lost!\n");
   }
   
 
